@@ -3,3 +3,5 @@
 .sass-cache/
 ms-widget/
 .*css.map
+
+/.idea
